@@ -8,13 +8,13 @@
     <loc>https://rotvig.github.io/blogposts/posts/papermod/papermod-features/</loc>
     <lastmod>2021-01-20T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>https://rotvig.github.io/blogposts/</loc>
+    <lastmod>2021-01-20T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://rotvig.github.io/blogposts/tags/papermod/</loc>
     <lastmod>2021-01-20T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://rotvig.github.io/blogposts/series/papermod/</loc>
-    <lastmod>2021-01-20T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://rotvig.github.io/blogposts/</loc>
     <lastmod>2021-01-20T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://rotvig.github.io/blogposts/posts/papermod/</loc>
@@ -79,6 +79,14 @@
   </url><url>
     <loc>https://rotvig.github.io/blogposts/posts/emoji-support/</loc>
     <lastmod>2019-03-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://rotvig.github.io/blogposts/tags/distributed-systems/</loc>
+  </url><url>
+    <loc>https://rotvig.github.io/blogposts/tags/eventsourcing/</loc>
+  </url><url>
+    <loc>https://rotvig.github.io/blogposts/tags/microservices/</loc>
+  </url><url>
+    <loc>https://rotvig.github.io/blogposts/posts/readup/</loc>
   </url><url>
     <loc>https://rotvig.github.io/blogposts/search/</loc>
   </url>
