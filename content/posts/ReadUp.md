@@ -1,7 +1,7 @@
 ---
 author: "René Rotvig Jensen"
 title: "ReadUp"
-date: "2022-31-05"
+date: "2022-05-31"
 description: "A short Readup what is good know if you wanna learn more about Microservices, distributed systems and event sourcing"
 tags: ["microservices", "eventsourcing", "distributed systems"]
 ShowToc: true
