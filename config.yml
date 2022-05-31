@@ -1,5 +1,5 @@
 baseURL: "https://rotvig.github.io/blogposts/" # if your site is in 'https', then make sure your base url isn't written using 'http' otherwise your sitemap would contain http (as opposeed to https) URLs. This would affect Google indexing of your URLs.
-title: PaperMod
+title: Blogposts
 paginate: 5
 theme: PaperMod
 
@@ -48,7 +48,7 @@ outputs:
 params:
     env: production # to enable google analytics, opengraph, twitter-cards and schema.
     description: "Theme PaperMod - https://github.com/adityatelange/hugo-PaperMod"
-    author: Theme PaperMod
+    author: René Rotvig Jensen
     # author: ["Me", "You"] # multiple authors
 
     defaultTheme: auto
@@ -79,15 +79,11 @@ params:
               url: tags
 
     homeInfoParams:
-        Title: "PaperMod"
+        Title: "Blogposts"
         Content: >
-            Welcome to demo of hugo's theme PaperMod.
+            Welcome to my posts.
 
-            - **PaperMod** is a simple but fast and responsive theme with useful feature-set that enhances UX.
-
-            - Do give a 🌟 on Github !
-
-            - PaperMod is based on theme [Paper](https://github.com/nanxiaobei/hugo-paper).
+            - This is a small site where i can posts some of my ideas and thougts
 
     socialIcons:
         - name: github
@@ -98,7 +94,7 @@ params:
           url: "index.xml"
 
     editPost:
-        URL: "https://github.com/adityatelange/hugo-PaperMod/tree/exampleSite/content"
+        URL: "https://github.com/Rotvig/blogposts/content"
         Text: "Suggest Changes" # edit text
         appendFilePath: true # to append file path to Edit link
 
