@@ -86,7 +86,7 @@ params:
           url: "index.xml"
 
     editPost:
-        URL: "https://github.com/Rotvig/blogposts/content"
+        URL: "https://github.com/Rotvig/blogposts/content/posts"
         Text: "Suggest Changes" # edit text
         appendFilePath: true # to append file path to Edit link
 
