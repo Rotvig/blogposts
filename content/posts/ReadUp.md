@@ -10,14 +10,6 @@ ShowToc: true
 # Read-up
 Collection of articles and videos 
 
-
-## Contents
-
-- [General](#general)
-- [Architecture](#architecture)
-- [Domain](#domain)
-- [Twitter Handles](#twitter-handles)
-
 ## General
 [Awesome](https://github.com/sindresorhus/awesome) - A general overview of all sorts of things
 
