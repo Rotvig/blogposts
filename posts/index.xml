@@ -9,7 +9,16 @@
       <link>https://rotvig.github.io/blogposts/papermod-cover.png</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Wed, 20 Jan 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://rotvig.github.io/blogposts/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 31 May 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://rotvig.github.io/blogposts/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>ReadUp</title>
+      <link>https://rotvig.github.io/blogposts/posts/readup/</link>
+      <pubDate>Tue, 31 May 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://rotvig.github.io/blogposts/posts/readup/</guid>
+      <description>A short Readup what is good know if you wanna learn more about Microservices, distributed systems and event sourcing</description>
+    </item>
+    
     <item>
       <title>Markdown Syntax Guide</title>
       <link>https://rotvig.github.io/blogposts/posts/markdown-syntax/</link>
@@ -53,15 +62,6 @@
       
       <guid>https://rotvig.github.io/blogposts/posts/emoji-support/</guid>
       <description>Guide to emoji usage in Hugo</description>
-    </item>
-    
-    <item>
-      <title>ReadUp</title>
-      <link>https://rotvig.github.io/blogposts/posts/readup/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://rotvig.github.io/blogposts/posts/readup/</guid>
-      <description>A short Readup what is good know if you wanna learn more about Microservices, distributed systems and event sourcing</description>
     </item>
     
   </channel>

@@ -8,11 +8,12 @@
       <url>https://rotvig.github.io/blogposts/papermod-cover.png</url>
       <link>https://rotvig.github.io/blogposts/papermod-cover.png</link>
     </image>
-    <generator>Hugo -- gohugo.io</generator><atom:link href="https://rotvig.github.io/blogposts/tags/eventsourcing/index.xml" rel="self" type="application/rss+xml" />
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Tue, 31 May 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://rotvig.github.io/blogposts/tags/eventsourcing/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>ReadUp</title>
       <link>https://rotvig.github.io/blogposts/posts/readup/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 31 May 2022 00:00:00 +0000</pubDate>
       
       <guid>https://rotvig.github.io/blogposts/posts/readup/</guid>
       <description>A short Readup what is good know if you wanna learn more about Microservices, distributed systems and event sourcing</description>
